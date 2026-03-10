@@ -68,10 +68,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=beast-69-bot&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&cache_seconds=1800" width="49%" />
+<img src="https://github-readme-stats-eight-topaz-68.vercel.app/api?username=beast-69-bot&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff" width="49%" />
 <img src="https://streak-stats.demolab.com/?user=beast-69-bot&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=ffd700&currStreakLabel=00ff88" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beast-69-bot&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&cache_seconds=1800" width="40%" />
+<img src="https://github-readme-stats-eight-topaz-68.vercel.app/api/top-langs/?username=beast-69-bot&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff" width="40%" />
 
 </div>
 
@@ -101,7 +101,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=beast-69-bot&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/beast-69-bot)
+[![trophy](https://github-profile-trophy.vercel.app/?username=beast-69-bot&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=6)](https://github.com/beast-69-bot)
 
 </div>
 
