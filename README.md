@@ -21,21 +21,19 @@
 
 ## 👾 About Me
 
-```python
-class Beast69Bot:
-    def __init__(self):
-        self.name       = "beast-69-bot"
-        self.role       = "Bot Developer & Automation Engineer"
-        self.languages  = ["Python 🐍"]
-        self.speciality = ["Telegram Bots", "Auto-Approval Systems", "File Stores"]
-        self.status     = "Always building something cool 🔥"
+👋 Hi, I'm **beast-69-bot!**
 
-    def say_hi(self):
-        print("Welcome to my GitHub! Let's automate everything 🚀")
+🤖 Bot Developer & Automation Engineer
 
-me = Beast69Bot()
-me.say_hi()
-```
+🐍 Python ka diwana hoon
+
+🚀 Telegram bots aur automation tools banata hoon
+
+💼 File stores, auto-approval systems aur selling bots mera kaam hai
+
+🔥 Hamesha kuch naya build karta rehta hoon!
+
+> *"Automate the boring stuff, build the cool stuff."*
 
 ---
 
@@ -70,10 +68,10 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=beast-69-bot&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=beast-69-bot&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=ffd700&currStreakLabel=00ff88" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=beast-69-bot&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&cache_seconds=1800" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=beast-69-bot&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=ffd700&currStreakLabel=00ff88" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beast-69-bot&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beast-69-bot&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&cache_seconds=1800" width="40%" />
 
 </div>
 
