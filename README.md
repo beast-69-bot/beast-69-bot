@@ -11,13 +11,13 @@
 
 <br/>
 
-<!-- PROFILE VIEWS & FOLLOWERS -->
+<!-- PROFILE BADGES -->
 <img src="https://komarev.com/ghpvc/?username=beast-69-bot&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 <a href="https://github.com/beast-69-bot?tab=followers">
   <img src="https://img.shields.io/github/followers/beast-69-bot?label=Followers&style=for-the-badge&color=00d9ff&labelColor=0d1117" alt="Followers" />
 </a>
-<a href="https://github.com/beast-69-bot?tab=repositories&sort=stargazers">
-  <img src="https://img.shields.io/github/stars/beast-69-bot?label=Total%20Stars&style=for-the-badge&color=00d9ff&labelColor=0d1117" alt="Stars" />
+<a href="https://github.com/beast-69-bot?tab=repositories">
+  <img src="https://img.shields.io/badge/Contributions-927%2B-00d9ff?style=for-the-badge&labelColor=0d1117&logo=github" alt="Contributions" />
 </a>
 
 </div>
@@ -34,17 +34,17 @@ location: India 🇮🇳
 role: Telegram Bot Developer & Python Enthusiast
 github: beast-69-bot
 
-currently_building: Telegram Bots That Hit Different 🤖
-specialization: Bot Development | Automation | Web Scraping
+currently_building: High-Performance Telegram Bots & Automation Tools 🤖
+specialization: Telegram Bot API | Web Scraping | Asynchronous Python
 primary_language: Python 🐍
 contributions: 927+ in the last year 🔥
 
 highlights:
   - 🏅 GitHub Developer Program Member
-  - 🤖 Creator of Spotify Downloader Bot
-  - 📋 Telegram Paste Bot (Telegraph / JustPaste style)
-  - 🔍 Text Extractor Bot (OCR from Images, Screenshots & Audio/Video)
-  - 📬 AZ Post Checker Bot
+  - 🎵 Spotify-Downloader-Bot (Telegram Music Downloader)
+  - 📋 Telegram-Paste-Bot (Telegraph & JustPaste Style)
+  - 🔍 AzTextExtractorBot (OCR text from images, audio & video)
+  - 📬 AzPostChecker (Telegram post monitor & parser)
 
 motto: "Automate everything. Bot everything. Beast mode ON." 😎
 ```
@@ -54,22 +54,13 @@ motto: "Automate everything. Bot everything. Beast mode ON." 😎
 <!-- FEATURED PROJECTS -->
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/beast-69-bot/Spotify-Downloader-Bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=beast-69-bot&repo=Spotify-Downloader-Bot&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=ff6e96&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/beast-69-bot/telegram-paste-bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=beast-69-bot&repo=telegram-paste-bot&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=ff6e96&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/beast-69-bot/aztextextractorbot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=beast-69-bot&repo=aztextextractorbot&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=ff6e96&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/beast-69-bot/azpostchecker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=beast-69-bot&repo=azpostchecker&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=ff6e96&text_color=c9d1d9" />
-</a>
-
-</div>
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :---: |
+| 🎵 [**Spotify-Downloader-Bot**](https://github.com/beast-69-bot/Spotify-Downloader-Bot) | Telegram Spotify Music Downloader Bot supporting tracks, albums & playlists | `Python` `Pyrogram` `API` | 🟢 Active |
+| 📋 [**telegram-paste-bot**](https://github.com/beast-69-bot/telegram-paste-bot) | Create shareable web links with Title & Multiple Images (Telegraph / JustPaste style) | `Python` `Telegraph` `Bot` | 🟢 Active |
+| 🔍 [**aztextextractorbot**](https://github.com/beast-69-bot/aztextextractorbot) | Extract text from Screenshots, Images, PDFs (OCR) & transcripts from Videos/Audio | `Python` `OCR` `AsyncIO` | 🟢 Active |
+| 📬 [**azpostchecker**](https://github.com/beast-69-bot/azpostchecker) | Monitor, parse and verify Telegram channel posts & links efficiently | `Python` `Telethon` | 🟢 Active |
+| 🏆 [**my-achievements**](https://github.com/beast-69-bot/my-achievements) | Directory showcasing unlocked achievements, stats and private project milestones | `Markdown` `Docs` | 🟢 Active |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -78,13 +69,13 @@ motto: "Automate everything. Bot everything. Beast mode ON." 😎
 
 <div align="center">
 
-### 🐍 Core
+### 🐍 Core & Frameworks
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Pyrogram](https://img.shields.io/badge/Pyrogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Telethon](https://img.shields.io/badge/Telethon-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![python-telegram-bot](https://img.shields.io/badge/python--telegram--bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
-### 🤖 Bot & Automation
+### 🤖 Automation & Scraping
 ![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -97,7 +88,7 @@ motto: "Automate everything. Bot everything. Beast mode ON." 😎
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
-### 🔧 Tools
+### 🔧 Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -108,16 +99,14 @@ motto: "Automate everything. Bot everything. Beast mode ON." 😎
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- GITHUB STATS -->
-## 📊 GitHub Stats
+<!-- GITHUB STATS & STREAK -->
+## 📊 GitHub Stats & Streak
 
 <div align="center">
 
+<!-- Fast mirror stats card -->
 <a href="https://github.com/beast-69-bot">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beast-69-bot&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/beast-69-bot">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beast-69-bot&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=beast-69-bot&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
 </a>
 
 <br/><br/>
@@ -164,21 +153,10 @@ Check out all my GitHub achievements and unlocked badges:
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- RANDOM DEV QUOTE -->
-## ✍️ Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</div>
-
 <br/>
 
 <!-- FOOTER -->
 <div align="center">
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,25&height=120&section=footer&animation=twinkling" width="100%" />
 
