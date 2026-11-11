@@ -1,122 +1,230 @@
-<div align="center">
-
-```
- █████╗  ██████╗     ██████╗ ███████╗ █████╗ ███████╗████████╗
-██╔══██╗██╔════╝     ██╔══██╗██╔════╝██╔══██╗██╔════╝╚══██╔══╝
-███████║██║  ███╗    ██████╔╝█████╗  ███████║███████╗   ██║   
-██╔══██║██║   ██║    ██╔══██╗██╔══╝  ██╔══██║╚════██║   ██║   
-██║  ██║╚██████╔╝    ██████╔╝███████╗██║  ██║███████║   ██║   
-╚═╝  ╚═╝ ╚═════╝     ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝   
-```
-
-### 🤖 Bot Developer | 🐍 Python Enthusiast | ⚡ Automation Addict
-
-[![GitHub followers](https://img.shields.io/github/followers/beast-69-bot?style=for-the-badge&color=00ff88&labelColor=0d1117&logo=github)](https://github.com/beast-69-bot)
-[![GitHub stars](https://img.shields.io/github/stars/beast-69-bot?style=for-the-badge&color=ffd700&labelColor=0d1117&logo=github)](https://github.com/beast-69-bot)
-![Profile Views](https://komarev.com/ghpvc/?username=beast-69-bot&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-## 👾 About Me
-
-👋 Hi, I'm **beast-69-bot!**
-
-🤖 Bot Developer & Automation Engineer
-
-🐍 Python ka diwana hoon
-
-🚀 Telegram bots aur automation tools banata hoon
-
-💼 File stores, auto-approval systems aur selling bots mera kaam hai
-
-🔥 Hamesha kuch naya build karta rehta hoon!
-
-> *"Automate the boring stuff, build the cool stuff."*
-
----
-
-## 🛠️ Tech Stack
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!--                  🔥  AG BEAST — GitHub Profile  🔥                -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<!-- ANIMATED TYPING HEADER -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=750&height=110&lines=%F0%9F%91%8B+Hey%2C+I'm+AG+BEAST;%F0%9F%A4%96+Telegram+Bot+Developer+%7C+Automation+Freak;%F0%9F%90%8D+Python+%7C+Bot+Architect+%7C+Open+Source" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- PROFILE VIEWS & FOLLOWERS -->
+<img src="https://komarev.com/ghpvc/?username=beast-69-bot&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<a href="https://github.com/beast-69-bot?tab=followers">
+  <img src="https://img.shields.io/github/followers/beast-69-bot?label=Followers&style=for-the-badge&color=00d9ff&labelColor=0d1117" alt="Followers" />
+</a>
+<a href="https://github.com/beast-69-bot?tab=repositories&sort=stargazers">
+  <img src="https://img.shields.io/github/stars/beast-69-bot?label=Total%20Stars&style=for-the-badge&color=00d9ff&labelColor=0d1117" alt="Stars" />
+</a>
 
 </div>
 
----
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!-- ABOUT ME -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+
+```yaml
+name: AG BEAST
+location: India 🇮🇳
+role: Telegram Bot Developer & Python Enthusiast
+github: beast-69-bot
+
+currently_building: Telegram Bots That Hit Different 🤖
+specialization: Bot Development | Automation | Scraping
+languages: Python 🐍
+contributions: 927+ in the last year 🔥
+
+highlights:
+  - 🏅 GitHub Developer Program Member
+  - 🤖 Creator of Spotify Downloader Bot
+  - 📋 Telegram Paste Bot (Telegraph / JustPaste style)
+  - 🔍 Text Extractor Bot (OCR from Images, Screenshots & Videos)
+  - 📬 AZ Post Checker Bot
+
+motto: "Automate everything. Bot everything. Beast mode ON." 😎
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- FEATURED PROJECTS -->
 ## 🚀 Featured Projects
 
-| 🤖 Project | 📝 Description | 🔧 Tech |
-|---|---|---|
-| [**azfilestorepremium**](https://github.com/beast-69-bot/azfilestorepremium) | Premium file store bot | ![Python](https://img.shields.io/badge/-Python-blue?style=flat) |
-| [**AUTO-APPROVAL-BOT**](https://github.com/beast-69-bot/AUTO-APPROVAL-BOT) | Auto-approves join requests with human verification | ![Python](https://img.shields.io/badge/-Python-blue?style=flat) |
-| [**telegram-selling-bot**](https://github.com/beast-69-bot/telegram-selling-bot) | Telegram selling automation bot | ![Python](https://img.shields.io/badge/-Python-blue?style=flat) |
-| [**giveway-bot**](https://github.com/beast-69-bot/giveway-bot) | Telegram giveaway bot | ![Python](https://img.shields.io/badge/-Python-blue?style=flat) |
-| [**azfileconversion**](https://github.com/beast-69-bot/azfileconversion) | File conversion tool | ![Python](https://img.shields.io/badge/-Python-blue?style=flat) |
-| [**personal-shortner**](https://github.com/beast-69-bot/personal-shortner) | Personal URL shortener | ![Python](https://img.shields.io/badge/-Python-blue?style=flat) |
+<div align="center">
 
----
+<a href="https://github.com/beast-69-bot/Spotify-Downloader-Bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=beast-69-bot&repo=Spotify-Downloader-Bot&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=ff6e96&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/beast-69-bot/telegram-paste-bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=beast-69-bot&repo=telegram-paste-bot&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=ff6e96&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/beast-69-bot/aztextextractorbot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=beast-69-bot&repo=aztextextractorbot&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=ff6e96&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/beast-69-bot/azpostchecker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=beast-69-bot&repo=azpostchecker&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=ff6e96&text_color=c9d1d9" />
+</a>
 
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- TECH STACK -->
+## 🛠️ Tech Stack & Arsenal
+
+<div align="center">
+
+### 🐍 Core
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Pyrogram](https://img.shields.io/badge/Pyrogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Telethon](https://img.shields.io/badge/Telethon-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![python-telegram-bot](https://img.shields.io/badge/python--telegram--bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+
+### 🤖 Bot & Automation
+![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🗄️ Database & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- GITHUB STATS -->
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-topaz-68.vercel.app/api?username=beast-69-bot&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=beast-69-bot&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=ffd700&currStreakLabel=00ff88" width="49%" />
+<a href="https://github.com/beast-69-bot">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beast-69-bot&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/beast-69-bot">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beast-69-bot&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+</a>
 
-<img src="https://github-readme-stats-eight-topaz-68.vercel.app/api/top-langs/?username=beast-69-bot&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff" width="40%" />
+<br/><br/>
+
+<!-- Streak Stats -->
+<a href="https://github.com/beast-69-bot">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beast-69-bot&theme=radical&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6e96&currStreakLabel=00d9ff&sideLabels=00d9ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak"/>
+</a>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!-- CONTRIBUTION GRAPH -->
+## 📈 Contribution Graph
+
+<div align="center">
+  <a href="https://github.com/beast-69-bot">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=beast-69-bot&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6e96&area=true&area_color=00d9ff&hide_border=true" alt="Contribution Graph" width="95%"/>
+  </a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- SNAKE ANIMATION -->
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-![Snake animation](https://github.com/beast-69-bot/beast-69-bot/blob/output/github-contribution-grid-snake-dark.svg)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beast-69-bot/beast-69-bot/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beast-69-bot/beast-69-bot/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/beast-69-bot/beast-69-bot/output/github-snake-dark.svg" width="100%"/>
+  </picture>
 </div>
 
----
+> 💡 Snake animation ke liye `beast-69-bot/beast-69-bot` repo mein `.github/workflows/snake.yml` add karo — file already create ho chuki hai!
 
-## 📈 Activity Graph
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=beast-69-bot&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff88&line=00ff88&point=ffd700)](https://github.com/beast-69-bot)
-
-</div>
-
----
-
+<!-- TROPHIES -->
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=beast-69-bot&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=6)](https://github.com/beast-69-bot)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=beast-69-bot&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="95%"/>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ACHIEVEMENTS -->
+## 🏅 My Achievements
 
 <div align="center">
 
-### 💬 Connect With Me
+Check out all my GitHub achievements and unlocked badges:
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/beast69bot)
-
----
-
-*"Automate the boring stuff, build the cool stuff."* 🔥
-
-**⭐ Agar koi project pasand aaya toh star karna mat bhoolo!**
+[![My Achievements](https://img.shields.io/badge/🏅_My_Achievements-View_All-00d9ff?style=for-the-badge&labelColor=0d1117)](https://github.com/beast-69-bot/my-achievements)
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- CONNECT WITH ME -->
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- RANDOM DEV QUOTE -->
+## ✍️ Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</div>
+
+<br/>
+
+<!-- SPOTIFY (optional — if you use spotify-github-profile) -->
+<!--
+## 🎵 Vibing To
+<div align="center">
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=00d9ff" alt="Spotify" />
+  </a>
+</div>
+-->
+
+<!-- FOOTER -->
+<div align="center">
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,25&height=120&section=footer&animation=twinkling" width="100%" />
+
+<b>⭐ Star my repos if you find them useful! Let's build bots together! 🤖</b>
+
+<br/>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with bot developers</b> — DM me on Telegram, let's collab! 🚀</em>
+
+</div>
+
+<!-- ════════════════════════════════════════════════════════════════════ -->
