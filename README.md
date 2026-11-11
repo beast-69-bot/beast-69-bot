@@ -35,15 +35,15 @@ role: Telegram Bot Developer & Python Enthusiast
 github: beast-69-bot
 
 currently_building: Telegram Bots That Hit Different 🤖
-specialization: Bot Development | Automation | Scraping
-languages: Python 🐍
+specialization: Bot Development | Automation | Web Scraping
+primary_language: Python 🐍
 contributions: 927+ in the last year 🔥
 
 highlights:
   - 🏅 GitHub Developer Program Member
   - 🤖 Creator of Spotify Downloader Bot
   - 📋 Telegram Paste Bot (Telegraph / JustPaste style)
-  - 🔍 Text Extractor Bot (OCR from Images, Screenshots & Videos)
+  - 🔍 Text Extractor Bot (OCR from Images, Screenshots & Audio/Video)
   - 📬 AZ Post Checker Bot
 
 motto: "Automate everything. Bot everything. Beast mode ON." 😎
@@ -131,37 +131,11 @@ motto: "Automate everything. Bot everything. Beast mode ON." 😎
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- CONTRIBUTION GRAPH -->
-## 📈 Contribution Graph
-
-<div align="center">
-  <a href="https://github.com/beast-69-bot">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=beast-69-bot&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6e96&area=true&area_color=00d9ff&hide_border=true" alt="Contribution Graph" width="95%"/>
-  </a>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <!-- SNAKE ANIMATION -->
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beast-69-bot/beast-69-bot/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beast-69-bot/beast-69-bot/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/beast-69-bot/beast-69-bot/output/github-snake-dark.svg" width="100%"/>
-  </picture>
-</div>
-
-> 💡 Snake animation ke liye `beast-69-bot/beast-69-bot` repo mein `.github/workflows/snake.yml` add karo — file already create ho chuki hai!
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- TROPHIES -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=beast-69-bot&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="95%"/>
+  <img src="https://raw.githubusercontent.com/beast-69-bot/beast-69-bot/output/github-snake-dark.svg" alt="github-snake" width="100%" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -184,10 +158,9 @@ Check out all my GitHub achievements and unlocked badges:
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/beast_network)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beast-69-bot)
 
 </div>
 
@@ -202,16 +175,6 @@ Check out all my GitHub achievements and unlocked badges:
 
 <br/>
 
-<!-- SPOTIFY (optional — if you use spotify-github-profile) -->
-<!--
-## 🎵 Vibing To
-<div align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=00d9ff" alt="Spotify" />
-  </a>
-</div>
--->
-
 <!-- FOOTER -->
 <div align="center">
 
@@ -223,7 +186,7 @@ Check out all my GitHub achievements and unlocked badges:
 
 <br/>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with bot developers</b> — DM me on Telegram, let's collab! 🚀</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with bot developers</b> — hit me up and let's collaborate! 🚀</em>
 
 </div>
 
